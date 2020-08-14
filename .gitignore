@@ -2,3 +2,4 @@ fastq
 bam
 genome
 *.log
+.bashrc
